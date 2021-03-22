@@ -1,5 +1,6 @@
 # Simple_Test_Web-server
 ## Реализация простого веб-сервера.
+![bd](https://user-images.githubusercontent.com/57628204/111960149-6b379e00-8b00-11eb-9570-28885efbf2a7.PNG)
 ***ТЗ:***
 1. По изображению схемы создать физическую БД. СУБД не так важен(MySQL, PostgreSQL)
 2. Развернуть веб-сервис на основе фреймворка. Можно брать Django, Pyramid, Flask
